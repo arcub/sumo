@@ -4,6 +4,7 @@ This repository contains the rules, guidelines and documents for the Robo Sumo c
 
 ## Links
 [Facebook Group](https://www.facebook.com/groups/1037228513076708/)
+
 [http://sumo.aberrobotics.club](http://sumo.aberrobotics.club)
 
 ## Getting Started
