@@ -1,4 +1,4 @@
-# Sumo
+# Sumo Competition 2017
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
 
