@@ -1,6 +1,10 @@
-# Sumo Competition 2017
+# Aberystwyth Robo Sumo Event 2017
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
+
+## Links
+[Facebook Group](https://www.facebook.com/groups/1037228513076708/)
+[http://sumo.aberrobotics.club](http://sumo.aberrobotics.club)
 
 ## Getting Started
 
