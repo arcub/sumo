@@ -77,7 +77,7 @@ Where necessary the robots will be assessed on:
 # Authors
 
 * **Barry Thomas** - *Organiser* - [byt@aber.ac.uk](mailto:byt@aber.ac.uk)
-* **Tomos Fearn** - *Organiser* - [tof7@aber.ac.uk](mailto:tof7@aber.ac.uk)
+* **Tomos Fearn** - *Students Club Organiser* - [tof7@aber.ac.uk](mailto:tof7@aber.ac.uk)
 
 
 ## Versioning
