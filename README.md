@@ -1,6 +1,7 @@
 # Aberystwyth Robo Sumo Event 2017
 
-Document Version 0.1 
+**__Document Version 0.1__**
+
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
 
