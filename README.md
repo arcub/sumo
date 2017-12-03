@@ -32,10 +32,10 @@ You will compete with a robot which has maximum dimensions of 150x150x150mm. You
 # Information
 
 ## Date
-The first Robo Sumo Competition will be on the 6th of December 2017.
+The first Robo Sumo Competition will be on the 6th of December 2017, starting at 3:30PM.
 
 ## Venue
-To be confirmed.
+Physics Main (MP 0.15), Physical Sciences Building.
 
 ## The Robot Arena
 The arena consists of a ring which is 900mm in diameter with a 19mm white band around the circumference.
