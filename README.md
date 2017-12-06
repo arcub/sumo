@@ -81,6 +81,8 @@ Where necessary the robots will be assessed on:
 * Damage x2
 * Control x1
 
+Marks will be out of 30 - 5 for each category
+
 # Authors
 
 * **Barry Thomas** - *Organiser* - [byt@aber.ac.uk](mailto:byt@aber.ac.uk)
