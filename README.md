@@ -1,6 +1,6 @@
 # Aberystwyth Robo Sumo Event 2017
 
-**_Document Version 0.1_**
+**_Document Version 1.0_**
 
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
@@ -92,3 +92,4 @@ Where necessary the robots will be assessed on:
 | Version | Change | Changed by | Date Changed |
 |---------|--------|------------|--------------|
 | v0.1 | Initial | Tomos Fearn | 31st October 2017 |
+| v0.1 | Added competition and released info | Tomos Fearn | 6th December 2017 |
