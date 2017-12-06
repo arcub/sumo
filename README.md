@@ -31,7 +31,7 @@ You will compete with a robot which has maximum dimensions of 150x150x150mm. You
 9. Lithium battery powered robots should be fused
 10. Robots have to have a button accessable to the referee to start the fight. On depression of said button the robot will pause 5 seconds then start to do battle
 11. Heats will last 3 minutes long.
-12. Judges decision is final (see [point system](#point-system))
+12. Judges decision is final (see [point system](#points-system))
 
 # Information
 
