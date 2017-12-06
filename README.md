@@ -91,5 +91,5 @@ Where necessary the robots will be assessed on:
 
 | Version | Change | Changed by | Date Changed |
 |---------|--------|------------|--------------|
+| v1.0 | Added competition and released info | Tomos Fearn | 6th December 2017 |
 | v0.1 | Initial | Tomos Fearn | 31st October 2017 |
-| v0.1 | Added competition and released info | Tomos Fearn | 6th December 2017 |
