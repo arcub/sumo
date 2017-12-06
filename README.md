@@ -12,6 +12,8 @@ This repository contains the rules, guidelines and documents for the Robo Sumo c
 
 [Robo Sumo Competition Application](https://docs.google.com/forms/d/195Ddua36zcD4MfTpUbMtanCbKFeg9VFgKgAM_DAQi90)
 
+[Competition - 6th December 2017](http://simba.aberrobotics.club/showandtell/sumo.jpg)
+
 ## Getting Started
 
 You will compete with a robot which has maximum dimensions of 150x150x150mm. You can either create your robot or it can be a commercial chassis (bought off the shelf).
