@@ -15,7 +15,7 @@ This repository contains the rules, guidelines and documents for the Robo Sumo c
 
 ## Getting Started
 
-You will compete with a robot which has maximum dimensions of 150x150x150mm. You can either create your robot or it can be a commercial chassis (bought off the shelf).
+You will compete with a robot which has maximum dimensions of 150mm x 150mm x unlimited mm (l x w x h). You can either create your robot or it can be a commercial chassis (bought off the shelf).
 
 ## Rules Overview
 
