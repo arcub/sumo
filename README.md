@@ -1,4 +1,4 @@
-# Aberystwyth Robo Sumo Event 2017
+# Aberystwyth Robo Sumo Event 2018
 
 **_Document Version 1.1_**
 
