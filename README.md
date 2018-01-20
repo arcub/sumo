@@ -93,6 +93,6 @@ Marks will be out of 30 - 5 for each category.
 
 | Version | Change | Changed by | Date Changed |
 |---------|--------|------------|--------------|
-| v1.0 | Added information of Science Week and Sumo Guide Blog | Tomos Fearn | 20th January 2018 |
+| v1.1 | Added information of Science Week and Sumo Guide Blog | Tomos Fearn | 20th January 2018 |
 | v1.0 | Added competition and released info | Tomos Fearn | 6th December 2017 |
 | v0.1 | Initial | Tomos Fearn | 31st October 2017 |
