@@ -10,9 +10,8 @@ This repository contains the rules, guidelines and documents for the Robo Sumo c
 
 [http://sumo.aberrobotics.club](http://sumo.aberrobotics.club)
 
-[Robo Sumo Competition Application](https://docs.google.com/forms/d/195Ddua36zcD4MfTpUbMtanCbKFeg9VFgKgAM_DAQi90)
+[How to Make a Good Sumo Robot - Blog](http://blog.jsumo.com/how-to-make-sumo-robot/)
 
-[Competition - 6th December 2017](http://simba.aberrobotics.club/showandtell/sumo.jpg)
 
 ## Getting Started
 
