@@ -1,6 +1,6 @@
 # Aberystwyth Robo Sumo Event 2017
 
-**_Document Version 1.0_**
+**_Document Version 1.1_**
 
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
@@ -22,7 +22,6 @@ You will compete with a robot which has maximum dimensions of 150x150x150mm. You
 1. Max dimensions 150x150x150mm
 2. Max weight 2kg
 3. Ring diameter 900mm - black with 19mm white band around the circumference
-4. 6th December 2017
 5. Autonomous or Rc controlled classes
 6. Push out or render your opponent immobile (judges decision)
 7. Anything goes weapon wise but will be scrutinised and disqualifed if overly dangerous!!
@@ -35,10 +34,12 @@ You will compete with a robot which has maximum dimensions of 150x150x150mm. You
 # Information
 
 ## Date
-The first Robo Sumo Competition will be on the 6th of December 2017, starting at 3:30PM.
+The next Sumo competition will be during Science Week - Wednesday 14th March 2018
+
+[Aberystwyth Science Week](https://www.aber.ac.uk/en/widening-participation/schoolscolleges/science-week/)
 
 ## Venue
-Physics Main (MP 0.15), Physical Sciences Building.
+Sports Cage, Aberystwyth University.
 
 ## The Robot Arena
 The arena consists of a ring which is 900mm in diameter with a 19mm white band around the circumference.
@@ -92,5 +93,6 @@ Marks will be out of 30 - 5 for each category.
 
 | Version | Change | Changed by | Date Changed |
 |---------|--------|------------|--------------|
+| v1.0 | Added information of Science Week and Sumo Guide Blog | Tomos Fearn | 20th January 2018 |
 | v1.0 | Added competition and released info | Tomos Fearn | 6th December 2017 |
 | v0.1 | Initial | Tomos Fearn | 31st October 2017 |
