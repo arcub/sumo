@@ -19,7 +19,7 @@ You will compete with a robot which has maximum dimensions of 150mm x 150mm x un
 
 ## Rules Overview
 
-1. Max dimensions 150x150x150mm
+1. Max dimensions 150mm x 150mm x unlimited mm (l x w x h)
 2. Max weight 2kg
 3. Ring diameter 900mm - black with 19mm white band around the circumference
 5. Autonomous or Rc controlled classes
