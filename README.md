@@ -1,6 +1,6 @@
-# Aberystwyth Robo Sumo Event 2018
+# Aberystwyth Robo Sumo Event 2019
 
-**_Document Version 1.1_**
+**_Document Version 1.2_**
 
 
 This repository contains the rules, guidelines and documents for the Robo Sumo competition
@@ -8,7 +8,7 @@ This repository contains the rules, guidelines and documents for the Robo Sumo c
 ## Links
 [Facebook Group](https://www.facebook.com/groups/1037228513076708/)
 
-[http://sumo.aberrobotics.club](http://sumo.aberrobotics.club)
+[http://sumo.aberrobotics.club](http://students.aberrobotics.club/sumo)
 
 [How to Make a Good Sumo Robot - Blog](http://blog.jsumo.com/how-to-make-sumo-robot/)
 
@@ -34,7 +34,7 @@ You will compete with a robot which has maximum dimensions of 150mm x 150mm x un
 # Information
 
 ## Date
-The next Sumo competition will be during Science Week - Wednesday 14th March 2018
+The next Sumo competition will be during Science Week - Wednesday 13th March 2019
 
 [Aberystwyth Science Week](https://www.aber.ac.uk/en/widening-participation/schoolscolleges/science-week/)
 
@@ -93,6 +93,7 @@ Marks will be out of 30 - 5 for each category.
 
 | Version | Change | Changed by | Date Changed |
 |---------|--------|------------|--------------|
+| v1.2 | Updated info for Science Week 2019 | Tomos Fearn | 6th February 2019 |
 | v1.1 | Added information of Science Week and Sumo Guide Blog | Tomos Fearn | 20th January 2018 |
 | v1.0 | Added competition and released info | Tomos Fearn | 6th December 2017 |
 | v0.1 | Initial | Tomos Fearn | 31st October 2017 |
